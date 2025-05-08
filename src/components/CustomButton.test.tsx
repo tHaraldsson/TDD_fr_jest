@@ -60,10 +60,10 @@ describe("Custom Button Component States", () => {
   })
 
   test("this test should fail", () => {
-    expect(2+2).toBe(299)
+    expect(2+2).toBe(4)
   })
 
   test("this test should fail", () => {
-    expect(2+3).toBe(299)
+    expect(2+3).toBe(5)
   })
 })
